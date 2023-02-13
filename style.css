@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(https://github.com/Rituhutagi26/Rituhutagi26.github.io/blob/202eb3d93b33fc9a2731fa811fd3fad5c619edfa/img.jpg);
+    background-image: url(img.jpg);
     background-size: cover;
     background-position: center;
 }
